@@ -32,7 +32,7 @@ mounted(){
 .job h2{
     background: #f4f4f4;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 50px;
     margin: 10px auto;
     max-width: 600px;
     cursor: pointer;
